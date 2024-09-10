@@ -1,2 +1,2 @@
 # createbest-github
-testing cresating a new repo
+testing creating a new repo
